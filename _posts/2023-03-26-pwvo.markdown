@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pixel-Wise Prediction based Visual Odometry via Uncertainty Estimation"
+date:   2023-03-24 12:20:59 +00:00
+image: /images/pwvo.png
+categories: research
+author: "Hao-Wei Chen"
+venue: "WACV 2023, Waikoloa, Hawaii"
+arxiv: https://arxiv.org/abs/2208.08892
+code: https://github.com/jaroslaw1007/PWVO
+authors: "<strong>Hao-Wei Chen</strong>, Ting-Hsuan Liao, Hsuan-Kung Yang, and Chun-Yi Lee"
+---
+Introduce dense prediction on camera motion of translation and rotation for every pixel in its input observations, also employs uncertainty estimation to identify the noisy regions.

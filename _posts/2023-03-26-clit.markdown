@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Cascaded Local Implicit Transformer for Arbitrary-Scale Super-Resolution"
+date:   2023-03-25 22:20:59 +00:00
+image: /images/clit.png
+categories: research
+author: "Hao-Wei Chen"
+subtitle: "Invited Workshop Talk"
+venue: "CVPR 2023, Vancouver, Canada"
+authors: "<strong>Hao-Wei Chen</strong>, Yu-Syuan Xu, Min-Fong Hong, Yi-Min Tsai, Hsien-Kai Kuo and Chun-Yi Lee"
+---
+We use self-attention mechanism to enhance the sharpness and clearness of arbitrary-scale super resolution images.
