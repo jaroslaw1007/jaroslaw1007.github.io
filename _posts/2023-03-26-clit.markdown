@@ -6,7 +6,8 @@ image: /assets/images/clit.png
 categories: research
 author: "Hao-Wei Chen"
 subtitle: "Invited Workshop Talk"
-venue: "CVPR 2023, Vancouver, Canada"
-authors: "<strong>Hao-Wei Chen*</strong>, Yu-Syuan Xu*, Min-Fong Hong, Yi-Min Tsai, Hsien-Kai Kuo and Chun-Yi Lee"
+venue: "CVPR 2023"
+authors: "<strong>Hao-Wei Chen*</strong>, Yu-Syuan Xu*, Min-Fong Hong, Yi-Min Tsai, Hsien-Kai Kuo, and Chun-Yi Lee"
+arxiv: https://arxiv.org/abs/2303.16513
 ---
 We use self-attention mechanism to enhance the sharpness and clearness of arbitrary-scale super resolution images.

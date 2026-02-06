@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Confronting Ambiguity in 6D Object Pose Estimation via Score-Based Diffusion on SE(3)"
+date: 2024-04-08 12:00:00 +00:00
+image: /assets/images/liepose.png
+categories: research
+author: "Hao-Wei Chen"
+venue: "CVPR 2024"
+authors: "Tsu-Ching Hsiao, <strong>Hao-Wei Chen</strong>, Hsuan-Kung Yang, and Chun-Yi Lee"
+arxiv: https://arxiv.org/abs/2305.15873
+---
+Addressing ambiguity in 6D object pose estimation by formulating the problem as score-based diffusion on the SE(3) manifold.

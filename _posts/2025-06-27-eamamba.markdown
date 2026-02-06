@@ -1,0 +1,12 @@
+---
+layout: post
+title: "EAMamba: Efficient All-Around Vision State Space Model for Image Restoration"
+date: 2025-06-27 12:00:00 +00:00
+image: /assets/images/eamamba.png
+categories: research
+author: "Hao-Wei Chen"
+venue: "ICCV 2025"
+authors: "Yu-Cheng Lin, Yu-Syuan Xu, <strong>Hao-Wei Chen</strong>, Hsien-Kai Kuo, and Chun-Yi Lee"
+arxiv: https://arxiv.org/abs/2506.22246
+---
+An efficient all-around vision state space model for image restoration that leverages the Mamba architecture to achieve strong performance across multiple restoration tasks.

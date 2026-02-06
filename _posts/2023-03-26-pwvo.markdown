@@ -5,7 +5,7 @@ date:   2023-03-26 12:20:59 +00:00
 image: /assets/images/pwvo.png
 categories: research
 author: "Hao-Wei Chen"
-venue: "WACV 2023, Waikoloa, Hawaii"
+venue: "WACV 2023"
 arxiv: https://arxiv.org/abs/2208.08892
 code: https://github.com/jaroslaw1007/PWVO
 authors: "<strong>Hao-Wei Chen</strong>, Ting-Hsuan Liao, Hsuan-Kung Yang, and Chun-Yi Lee"

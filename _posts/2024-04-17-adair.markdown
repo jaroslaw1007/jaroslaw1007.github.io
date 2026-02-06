@@ -1,0 +1,12 @@
+---
+layout: post
+title: "AdaIR: Exploiting Underlying Similarities of Image Restoration Tasks with Adapters"
+date: 2024-04-17 12:00:00 +00:00
+image: /assets/images/adair.png
+categories: research
+author: "Hao-Wei Chen"
+venue: "arXiv 2024"
+authors: "<strong>Hao-Wei Chen</strong>, Yu-Syuan Xu, Kelvin C.K. Chan, Hsien-Kai Kuo, Chun-Yi Lee, and Ming-Hsuan Yang"
+arxiv: https://arxiv.org/abs/2404.11475
+---
+Exploiting underlying similarities across different image restoration tasks using lightweight adapters for efficient multi-task restoration.

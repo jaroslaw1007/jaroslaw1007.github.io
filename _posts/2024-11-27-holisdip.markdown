@@ -1,0 +1,12 @@
+---
+layout: post
+title: "HoliSDiP: Image Super-Resolution via Holistic Semantics and Diffusion Prior"
+date: 2024-11-27 12:00:00 +00:00
+image: /assets/images/holisdip.png
+categories: research
+author: "Hao-Wei Chen"
+venue: "arXiv 2024"
+authors: "Li-Yuan Tsao, <strong>Hao-Wei Chen</strong>, Hao-Wei Chung, Deqing Sun, Chun-Yi Lee, Kelvin C.K. Chan, and Ming-Hsuan Yang"
+arxiv: https://arxiv.org/abs/2411.18662
+---
+A novel approach to image super-resolution that exploits holistic semantics and diffusion priors for high-quality image reconstruction.

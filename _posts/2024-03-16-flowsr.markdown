@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Boosting Flow-based Generative Super-Resolution Models via Learned Prior"
+date: 2024-03-16 12:00:00 +00:00
+image: /assets/images/flowsr.png
+categories: research
+author: "Hao-Wei Chen"
+venue: "CVPR 2024"
+authors: "Li-Yuan Tsao, Yi-Chen Lo, Chia-Che Chang, <strong>Hao-Wei Chen</strong>, Roy Tseng, Chien Feng, and Chun-Yi Lee"
+arxiv: https://arxiv.org/abs/2403.10988
+---
+Boosting flow-based generative super-resolution models by introducing a learned prior to improve the quality and fidelity of generated high-resolution images.
