@@ -498,19 +498,25 @@ img {
   }
 }
 
-/* ============ Theme Toggle ============ */
+/* ============ Top Controls (Blog + Theme Toggle) ============ */
 body {
   transition: background-color 0.3s, color 0.3s;
 }
 
-.theme-toggle {
+.top-controls {
   position: fixed;
   top: 16px;
   right: 16px;
   z-index: 1000;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.top-btn {
   width: 42px;
   height: 42px;
-  border: none;
+  border: 1px solid var(--color-border);
   border-radius: 50%;
   background: var(--color-card);
   color: var(--color-text);
@@ -520,25 +526,26 @@ body {
   align-items: center;
   justify-content: center;
   transition: all var(--transition-fast);
-  border: 1px solid var(--color-border);
+  text-decoration: none;
 }
 
-.theme-toggle:hover {
+.top-btn:hover {
   transform: scale(1.1);
   box-shadow: var(--card-shadow-hover);
+  color: var(--color-accent);
 }
 
-.theme-toggle svg {
+.top-btn svg {
   width: 20px;
   height: 20px;
   fill: currentColor;
 }
 
-.theme-toggle .icon-sun { display: none; }
-.theme-toggle .icon-moon { display: block; }
+.top-btn .icon-sun { display: none; }
+.top-btn .icon-moon { display: block; }
 
-[data-theme="dark"] .theme-toggle .icon-sun { display: block; }
-[data-theme="dark"] .theme-toggle .icon-moon { display: none; }
+[data-theme="dark"] .top-btn .icon-sun { display: block; }
+[data-theme="dark"] .top-btn .icon-moon { display: none; }
 
 /* ============ Blog Listing ============ */
 .blog-header {
