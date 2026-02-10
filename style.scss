@@ -199,15 +199,15 @@ img {
 .social-links {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--space-sm);
+  gap: 6px;
   margin-top: var(--space-lg);
 }
 
 .social-link {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-  padding: 6px 14px;
+  gap: 5px;
+  padding: 5px 11px;
   background: var(--color-bg);
   color: var(--color-text);
   border-radius: 20px;
