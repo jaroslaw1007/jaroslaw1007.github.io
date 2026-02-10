@@ -529,6 +529,17 @@ body {
   text-decoration: none;
 }
 
+.top-btn.top-btn-label {
+  width: auto;
+  border-radius: 21px;
+  padding: 0 14px 0 10px;
+  gap: 5px;
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
 .top-btn:hover {
   transform: scale(1.1);
   box-shadow: var(--card-shadow-hover);
@@ -543,9 +554,13 @@ body {
 
 .top-btn .icon-sun { display: none; }
 .top-btn .icon-moon { display: block; }
+.top-btn .label-light { display: none; }
+.top-btn .label-dark { display: inline; }
 
 [data-theme="dark"] .top-btn .icon-sun { display: block; }
 [data-theme="dark"] .top-btn .icon-moon { display: none; }
+[data-theme="dark"] .top-btn .label-light { display: inline; }
+[data-theme="dark"] .top-btn .label-dark { display: none; }
 
 /* ============ Blog Listing ============ */
 .blog-header {
